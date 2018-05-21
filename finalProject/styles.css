@@ -1,0 +1,15 @@
+h1{color:mediumpurple;}
+p{color: green;}
+p.attribution{color: deeppink;}
+body{background: lightblue;}
+li{color:red}
+a{color:hotpink;}
+a{font-size; 20px;}
+p{  margin-right: 150px;
+    margin-left: 10px;
+    }
+/*
+THINGS TO STYLE
+Add a margin to your body element (done)
+Change the background color and color for <h1> <p> and <li> <a>
+*/
